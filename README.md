@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rohitgpt1609/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/rohitgpt1609/leetcode/tree/master/0242-valid-anagram) |
 | [0399-evaluate-division](https://github.com/rohitgpt1609/leetcode/tree/master/0399-evaluate-division) |
+| [0412-fizz-buzz](https://github.com/rohitgpt1609/leetcode/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/rohitgpt1609/leetcode/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/rohitgpt1609/leetcode/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rohitgpt1609/leetcode/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/rohitgpt1609/leetcode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |

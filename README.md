@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/rohitgpt1609/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitgpt1609/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rohitgpt1609/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/rohitgpt1609/leetcode/tree/master/0169-majority-element) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/rohitgpt1609/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohitgpt1609/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/rohitgpt1609/leetcode/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -55,5 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rohitgpt1609/leetcode/tree/master/0169-majority-element) |
 | [1603-design-parking-system](https://github.com/rohitgpt1609/leetcode/tree/master/1603-design-parking-system) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rohitgpt1609/leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rohitgpt1609/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

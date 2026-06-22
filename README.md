@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rohitgpt1609/leetcode/tree/master/0242-valid-anagram) |
 | [0399-evaluate-division](https://github.com/rohitgpt1609/leetcode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/rohitgpt1609/leetcode/tree/master/0412-fizz-buzz) |
+| [0792-number-of-matching-subsequences](https://github.com/rohitgpt1609/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Stack
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rohitgpt1609/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rohitgpt1609/leetcode/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/rohitgpt1609/leetcode/tree/master/0399-evaluate-division) |
+| [0792-number-of-matching-subsequences](https://github.com/rohitgpt1609/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/rohitgpt1609/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Hash Table
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rohitgpt1609/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rohitgpt1609/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rohitgpt1609/leetcode/tree/master/0242-valid-anagram) |
+| [0792-number-of-matching-subsequences](https://github.com/rohitgpt1609/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/rohitgpt1609/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitgpt1609/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0792-number-of-matching-subsequences](https://github.com/rohitgpt1609/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rohitgpt1609/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rohitgpt1609/leetcode/tree/master/0242-valid-anagram) |
+| [0792-number-of-matching-subsequences](https://github.com/rohitgpt1609/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Math
 |  |
 | ------- |
@@ -115,4 +120,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rohitgpt1609/leetcode/tree/master/0035-search-insert-position) |
+| [0792-number-of-matching-subsequences](https://github.com/rohitgpt1609/leetcode/tree/master/0792-number-of-matching-subsequences) |
+## Trie
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/rohitgpt1609/leetcode/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->

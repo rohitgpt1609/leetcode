@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rohitgpt1609/leetcode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/rohitgpt1609/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitgpt1609/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/rohitgpt1609/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Hash Table
 |  |
@@ -37,4 +38,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/rohitgpt1609/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitgpt1609/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

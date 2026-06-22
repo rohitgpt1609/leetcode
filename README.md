@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohitgpt1609/leetcode/tree/master/0020-valid-parentheses) |
+| [0399-evaluate-division](https://github.com/rohitgpt1609/leetcode/tree/master/0399-evaluate-division) |
 ## Stack
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rohitgpt1609/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rohitgpt1609/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rohitgpt1609/leetcode/tree/master/0189-rotate-array) |
+| [0399-evaluate-division](https://github.com/rohitgpt1609/leetcode/tree/master/0399-evaluate-division) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/rohitgpt1609/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Hash Table
 |  |
@@ -78,4 +80,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rohitgpt1609/leetcode/tree/master/0189-rotate-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/rohitgpt1609/leetcode/tree/master/0399-evaluate-division) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/rohitgpt1609/leetcode/tree/master/0399-evaluate-division) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/rohitgpt1609/leetcode/tree/master/0399-evaluate-division) |
+## Graph Theory
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/rohitgpt1609/leetcode/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/rohitgpt1609/leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->

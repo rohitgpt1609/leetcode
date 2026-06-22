@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rohitgpt1609/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rohitgpt1609/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rohitgpt1609/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/rohitgpt1609/leetcode/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/rohitgpt1609/leetcode/tree/master/0399-evaluate-division) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/rohitgpt1609/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohitgpt1609/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/rohitgpt1609/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/rohitgpt1609/leetcode/tree/master/0283-move-zeroes) |
 ## Depth-First Search
 |  |
 | ------- |

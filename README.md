@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitgpt1609/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rohitgpt1609/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rohitgpt1609/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/rohitgpt1609/leetcode/tree/master/0189-rotate-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/rohitgpt1609/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Hash Table
 |  |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rohitgpt1609/leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/rohitgpt1609/leetcode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/rohitgpt1609/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
